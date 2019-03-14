@@ -1,0 +1,95 @@
+/* BACKGROUND COLOR */
+.lang-and-book > a,
+.heading > h2:before,
+.book-btn:hover,
+.lang-and-book > .book-btn,
+button.submit,
+.option-isotop > ul > li > a.selected,
+.about > a:hover,
+.service > span,
+.services-slide .owl-pagination > div.active,
+.history-btn > li.active:before,
+.history-btn > li.active:after,
+.post-thumb > i,
+.footer-heading:before,
+#contactform .submit,
+.sidebar-tabs > ul > li.active > a,
+.tags > li > a:hover,
+.comment-avatar > a,
+.leave-reply .submit,
+.slide1-texts > i,
+.tab-open.active,
+.form-tab-style .fieldset > button,
+header.vertical-header .header-top .info-top > span > i,
+.room-popup > h2 > i,
+.hotel-tabs .nav-tabs > li > a:before,
+.testimonial-two .owl-pagination > div.active,
+header.sticky nav > ul > li.active > a,
+.menu-sec nav > ul > li.active > a,
+.heading > a:hover > i,
+.like-template > a.book-btn,
+.pop-close,
+.map-fixed > span 
+
+{
+	background-color:#2c9f5c;
+}
+
+
+
+/* FONT COLOR */
+.strip-rotate > span,
+.special-room > h3 > a:hover,
+.star-rating > li > i,
+.about.parallax > h3 > i,
+.service > a,
+.testimonial > a,
+.video-frame > a,
+.history > span > i,
+.history-btn > li.active > a,
+.author-thumb > a > h5,
+.contact-widget > span > i,
+.sidebar-post > h6,
+.sidebar-heading > i,
+.user-comment > a,
+.slide2-texts2 > strong,
+.form-tab-style .fieldset > .room-result,
+.booking-form > label > i,
+.booking-details > ul > li.rate-plus:before,
+.room-rate > ul > li > i,
+.room-rate > span,
+.hotel-tabs .nav-tabs > li.active > a,
+.tab-thumb > ul > li > i,
+.testimonial-desc > span,
+.hotel-branches > .stars > li > i,
+.hotel-branches > h6,
+.heading > a:hover,
+.social > li > a:hover  
+{
+    color: #2c9f5c;
+}
+
+
+/* BORDER COLOR */
+.option-isotop > ul > li > a.selected,
+.sidebar-heading > i,
+.quote > blockquote,
+.tags > li > a:hover,
+.testimonial-two .owl-pagination > div.active,
+.heading > a:hover > i
+{
+    border-color: #2c9f5c;
+}
+
+
+/* OPACITY */
+.pictures-slide .nav-tabs > li > a:before,
+.testimonial-sec .nav.nav-tabs > li > a:before,
+.flickr a:before,
+.testimonial-sec .nav.nav-tabs > li > a:hover:before
+{
+    background: none repeat scroll 0 0 rgba(44, 159, 92, 0.8);
+}
+
+
+/* CUSTOM COLOR */
